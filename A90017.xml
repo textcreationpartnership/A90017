@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>New propositions from the kingdom of Scotland to His Highnesse Charles Prince of Wales; concerning the Kings Majesty, and His Highnesse, and the resolution and desires of the Scottish army thereupon. Presented to His Highnesse, aboard the Royall Convertine, and signed, Crawford Lindsay. Also, the Duke of York's letter to His Royall father the King, concerning the navie. And the proceedings of His Majesty, in relation to the three Kingdoms of England, Scotland, and Ireland. Likewise, Two bloudy fights in the North; the first, betweene His Majesties forces and the Parliaments at Scarborough in Yorkshire, with the number killed and taken, and Col. Bointons hanging out a flag of defiance against the Parliament. The second, between the Scots and Lieut. Gen. Cromwel, as also another fight in Staffordshire between the Kings forces and the Parliments, a Colonell killed, and divers taken prisoners.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90017</idno><idno type="EEBO-CITATION">99864548</idno>
+  <idno type="VID">162133</idno>
+  <idno type="EEBO-PROQUEST">2240902318</idno>
+  
+            <idno type="STC">Wing N729</idno>
+            <idno type="STC">Thomason E460_10</idno>
+            <idno type="STC">ESTC R205110</idno>
+            <idno type="PROQUEST">99864548</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864548e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90017)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162133)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 73:E460[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>New propositions from the kingdom of Scotland to His Highnesse Charles Prince of Wales; concerning the Kings Majesty, and His Highnesse, and the resolution and desires of the Scottish army thereupon. Presented to His Highnesse, aboard the Royall Convertine, and signed, Crawford Lindsay. Also, the Duke of York's letter to His Royall father the King, concerning the navie. And the proceedings of His Majesty, in relation to the three Kingdoms of England, Scotland, and Ireland. Likewise, Two bloudy fights in the North; the first, betweene His Majesties forces and the Parliaments at Scarborough in Yorkshire, with the number killed and taken, and Col. Bointons hanging out a flag of defiance against the Parliament. The second, between the Scots and Lieut. Gen. Cromwel, as also another fight in Staffordshire between the Kings forces and the Parliments, a Colonell killed, and divers taken prisoners.</title>
+                  <author>Scotland.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed in the year,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Aug ye 22th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Scotland --  Foreign relations --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162133:1"/>
+            <p>NEW PROPOSITIONS From the Kingdom of SCOTLAND TO His Highnesse <hi>CHARLES</hi> Prince of <hi>WALES;</hi> con<g ref="char:EOLhyphen"/>cerning the Kings Majesty, and His Highnesse, and the Resolution and Desires of the Scottish Army thereupon. Presented to His Highnesse aboard the <hi>Royall Convertine,</hi> and <hi>Signed, CRAWFORD LINDSAY.</hi>
+            </p>
+            <p>ALSO, The Duke of <hi>York's</hi> Letter to His Royall Father the <hi>King,</hi> concerning the Navie. And the proceedings of His Majesty, in relation to the three <hi>Kingdoms</hi> of <hi>England, Scotland,</hi> and <hi>Ireland.</hi>
+            </p>
+            <p>LIKEWISE, Two bloudy Fights in the North; the first, betweene His Majesties Forces and the Parliaments at Scarbrough in Yorkshire, with the number killed and taken, and Col. <hi>Bointons</hi> hanging out a Flag of defiance against the Parliament.</p>
+            <p>The second, between the Scots and Lieut. Gen. <hi>Cromwel,</hi> As also another fight in Staffordshire between the <hi>Kings</hi> Forces and the <hi>Parliaments,</hi> a Colonell killed, and divers taken prisoners.</p>
+            <p>Printed in the Yeer, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:162133:2"/>
+            <pb n="1" facs="tcp:162133:2"/>
+            <head>THE SCOTS PROPOSITIONS To His Highnesse the Prince of <hi>Wales,</hi> declaring their pious and loyall resolutions, to settle the King and his Royall Progenitors in their just Rights and power.</head>
+            <opener>
+               <salute>May it please your Highnesse.</salute>
+            </opener>
+            <p>AMongst all the calamities and miseries which this Nation these late years hath wrastled un<g ref="char:EOLhyphen"/>der, none doth more deeply wound and afflict Us, next to his Majesty your Royall Father his pre<g ref="char:EOLhyphen"/>sent sad condition and restraint, then your Highnesse
+<pb n="2" facs="tcp:162133:3"/> long absence from this Kingdome, wherunto by Gods mercy, and a long discent from your many Royall Progenitors, your rights and title is so just and un<g ref="char:EOLhyphen"/>questionable, and seeing the Forces of this Kingdome are now again in <hi>England,</hi> in pursuance of their duty to Religion, and his Majesties rescue, We the Com<g ref="char:EOLhyphen"/>mittee and Estates of Parliament intrusted by them with managing the publike affaires of this Kingdome under his Majesties Government, doe presume and humbly beg.</p>
+            <p n="1">I. That your Highnesse would be pleased to <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>onour <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> coun<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>enance w<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th your presence and assistanc<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, our piou<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and loyall endeavourt for Religion, and your Royall Fa<g ref="char:EOLhyphen"/>thers ee-establishment upon his Throne with all your just power: which we look upon as the most eminent and faithfull meanes of strengthning and uniting us in this great work, being confident, that if it shall please God to honour us with being instrumentall in his Majesties res<g ref="char:EOLhyphen"/>cue, that your Highnesse will effectually apply your self, to procure from him just satisfaction to the desires of Par<g ref="char:EOLhyphen"/>liaments, and those intrusted by them in both his King<g ref="char:EOLhyphen"/>domes.</p>
+            <p n="2">II. That if your Highnesse shall be pleased to grant these our humble desires, and intrust your person amongst us, We do ingage the publike faith of this Kingdom for your being in honour, freedom, and safety, during your abode with us in <hi>Scotland,</hi> or with our Army or Forces now in
+<pb n="3" facs="tcp:162133:3"/>
+               <hi>England,</hi> and that your Highnesse shall have a free and entire liberty to remove from us, when, or whither your Highnesse shall think sit:</p>
+            <p>
+               <hi>These our humble Desires and Proposals we have presumed to offer to your Highnesse by the Right ho<g ref="char:EOLhyphen"/>norable the Earl of <hi>Lauderdail,</hi> a person of great ho<g ref="char:EOLhyphen"/>nour and loyalty, who hath been instrumentall and usefull in this present engagement, who is fully instru<g ref="char:EOLhyphen"/>cted and authorized by Us in every thing concerning this service; to whom we beg, your Highnesse would be pleased to give trust to all shall be by him presen<g ref="char:EOLhyphen"/>ted to you. From</hi>
+            </p>
+            <closer>
+               <signed>Your Highnesse most humble, most obedient, and most most faithful servants, the Committee of Estates of the Parliament of <hi>Scotland,</hi> in whose name, and by whose Warrant this is signed. <hi>CRAWFORD LINDSAY.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="response_to_petition">
+            <head>The Copy of a Letter from the Isle of Wight.</head>
+            <p>SIR, The Votes of Parliament are well recented by the <hi>King,</hi> his Majesty is pleasant and merry, and desires the Treaty may be expedited. It is said that his Highnesse the Duke of York hath sent a Letter to the <hi>King,</hi> and reported to be to this effect, To acquaint his dear Father the <hi>King</hi> of the proceedings of the Na<g ref="char:EOLhyphen"/>vie at Sea, as also touching their present Designe and Engagement.</p>
+            <closer>
+               <dateline>
+                  <hi>Newport</hi>
+                  <date>
+                     <hi>Aug.</hi> 18. 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="text">
+            <pb n="4" facs="tcp:162133:4"/>
+            <head>Bloudy Newes from the North, communicating the full particulars of the severall Fights and skirnishes be<g ref="char:EOLhyphen"/>tween Major Gen. Lamberts Army and the Scots; as also between the Kings Forces at <hi>Scarbrough</hi> Castle, and the Parliaments.</head>
+            <opener>
+               <salute>Dear friend,</salute>
+            </opener>
+            <p>YEsterday morning Colonel <hi>Boynton</hi> with a party of Horse and Foot sallied out of the Castle, and fell upon two of Col. <hi>Bethels</hi> out-gards, killing two of our men, and took some two or three prisoners, the rest escaped, and retreated to the main Guard, Col. <hi>Bointon</hi> pursed them, and being advanced as far as the Market-place, made a stand, occasioned by the sudden rallying of our forces, who gathered into a Body, and charged them, fought resolutely, and disputed the place with abundance of magnanimity and courage: in which action divers fell on both sides, and many were wounded.</p>
+            <p>Col. <hi>Legard</hi> who commanded the Parliaments Foot deported himself with much gallantry, and Col. <hi>Bethel</hi> left no meanes unattempted to obtain the Conquest, but Col. <hi>Bointon</hi> (in policy) retreating towards the Castle gates, where was four pieces of Ordnance plan<g ref="char:EOLhyphen"/>ted invisible, wheeled behind them, and the Parliaments forces following the pursuit with such eagernesse of spirit, came upon them before they were aware, the Gunners gave fire, whereupon the Parliaments Forces
+<pb n="5" facs="tcp:162133:4"/> made good their retreat with little losse, only some few wounded, and a Captain, and two or three private souldiers killed.</p>
+            <p>Col. <hi>Bointon</hi> being timerous in following the pur<g ref="char:EOLhyphen"/>suit, gave order for the securing of the pieces, and drawing them in at the Gates, and and immediatly marched after with the rest of his forces: so soon as they were entred, a bloudy Flag were set up on the top of the high Tower, the Trumpets sounding and the Drums beating, with many acllamations of joy for this their great Victory, who reported, and gave out, that they had killed Col. <hi>Bethel</hi> and above 400. of his men, which is nothing so, his losse not amounting to above 20, and himself only receiving a small brush on the left shoulder.</p>
+            <p>This small Victory of theirs, is reported amongst the Royalists to be the totall deafeating of all our Forces against this Castle, and carries a great eccho and sound in the ears of many: but let them feed their fancies with these vain reports and falsities, we doubt not but in a short time but to become masters of the castle, ha<g ref="char:EOLhyphen"/>ving blocked them up almost on all sides.</p>
+            <p>Our Intelligence from Lieut. Gen. <hi>Cromwel</hi> adverti<g ref="char:EOLhyphen"/>zeth us, That a party of his horse hath lately fallen upon some of the Scots forces, beat up their out-quar<g ref="char:EOLhyphen"/>ters, and taken divers prisoners, which hath given an allarm to the whole Army.</p>
+            <p>The two Armies of Lieut. Gen. <hi>Cromwel,</hi> and Major Gen. <hi>Lambert</hi> are joyned, and have put themselves in<g ref="char:EOLhyphen"/>to a posture to receive Duke <hi>Hamilton,</hi> he moves but slowly, the Jockies having little mind to fight.</p>
+            <pb n="6" facs="tcp:162133:5"/>
+            <p>By Letters from Stafford it is advertized, that Col. <hi>Stepkins</hi> formerly a Commander in the Kings Army, had a design to have surprized the said Town and Ca<g ref="char:EOLhyphen"/>stle for the King, the place of Randezvouz wa<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> two miles distant from the town, where a great number of Royalists were gathered in a head together, in the night time, and intended to have put their design ia execution the next morning; but by the revolting of two Gen<g ref="char:EOLhyphen"/>tlemen, who discovered the same to Capt. <hi>Stone</hi> in the nick of time, the plot was discovered, and the Gover<g ref="char:EOLhyphen"/>nour, with a party of horse and foot, about two in the morning, marched to the said place of Randezvouz, fel upon them in their quarters, killed Colonel <hi>Stepkins</hi> and seven more, wounded many, and took divers pri<g ref="char:EOLhyphen"/>soners of quality, with the losse of two men.</p>
+            <closer>
+               <dateline>
+                  <hi>Scarbrough</hi>
+                  <date>
+                     <hi>Aug.</hi> 17. 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
